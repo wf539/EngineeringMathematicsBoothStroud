@@ -3,6 +3,8 @@
 Engineering Mathematics Personal Tutor
 K.A. Stroud with Dexter J. Booth
 
+Revised to meet the needs of the wide range of students beginning engineering courses, the fifth edition of this text has an extended "Foundation" section including new chapters on graphs, trigonometry, and binomial series and functions. As an introductory mathematics course for students on science and engineering degrees and pre-degree courses, it is suitable for both classroom use and self study. The new CD-ROM included with the book provides stepped hints, worked solutions and immediate feedback on exercises and problems. It has a user friendly interface and intuitive design. A networkable version is also available with a channelling of student progress through to the tutor.
+
 ##Installation and subsequent running of Engineering Mathematics
 
 Engineering Mathematics has an autoinstall device.  This means that on inserting the CD-ROM into your computer, the program Engineering Mathematics will automatically commence its installation procedure.  Engineering Mathematics is installed onto your computer during this procedure.  Once Engineering Mathematics is installed you do not need to use the CD-ROM again.  Run Engineering Mathematics using your Program Manager (click Start, Programs and the directory into which you installed the program).
